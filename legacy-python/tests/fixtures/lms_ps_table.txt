@@ -1,0 +1,2 @@
+IDENTIFIER             MODEL                  STATUS    SIZE        CONTEXT    TTL
+qwen2.5-7b-instruct    qwen2.5-7b-instruct    IDLE      4.68 GB     4096

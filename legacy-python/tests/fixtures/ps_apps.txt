@@ -1,0 +1,17 @@
+    1     0  24016 /sbin/launchd
+  654     1 138480 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  648     1  19120 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+ 2001     1 412000 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+ 2002  2001 180000 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/131.0.6778.86/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU)
+ 2003  2001 950000 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/131.0.6778.86/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)
+ 2004  2001 620000 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/131.0.6778.86/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer)
+ 3001     1 210000 /Applications/Slack.app/Contents/MacOS/Slack
+ 3002  3001 340000 /Applications/Slack.app/Contents/Frameworks/Slack Helper (Renderer).app/Contents/MacOS/Slack Helper (Renderer)
+ 3101     1 150000 /Applications/Spotify.app/Contents/MacOS/Spotify
+ 4001     1 300000 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/MacOS/Docker Desktop
+ 4002     1  90000 /Applications/Docker.app/Contents/MacOS/com.docker.backend
+ 4003  4002 4000000 /Applications/Docker.app/Contents/MacOS/com.docker.virtualization
+  554     1   2192 /Library/PrivilegedHelperTools/com.docker.vmnetd
+ 5001     1  50000 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+ 5002  5001   3000 -zsh
+ 5003  5002  20000 /usr/local/bin/python3

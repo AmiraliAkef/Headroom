@@ -1,0 +1,12 @@
+
+   LOADED MODELS
+
+Identifier: qwen2.5-7b-instruct
+  • Type:  LLM
+  • Path: lmstudio-community/Qwen2.5-7B-Instruct-GGUF/Qwen2.5-7B-Instruct-Q4_K_M.gguf
+  • Size: 4.68 GB
+  • Architecture: Qwen2
+
+Identifier: text-embedding-nomic-embed-text-v1.5
+  • Type: Embedding
+  • Size: 84.11 MB

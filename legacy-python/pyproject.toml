@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "headroom"
+version = "0.1.0"
+description = "Free real, usable RAM on macOS before a heavy task, and put things back afterwards."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+headroom = "headroom.cli:main"
+
+[tool.setuptools]
+packages = ["headroom"]
+
+[tool.setuptools.package-data]
+headroom = ["config.example.toml"]

@@ -1,0 +1,28 @@
+{
+  "defaultProfile" : "llm",
+  "profiles" : {
+    "build" : {
+      "quitApps" : [
+        "com.tinyspeck.slackmacgap",
+        "com.hnc.Discord",
+        "com.spotify.client"
+      ],
+      "stopDocker" : false,
+      "targetGB" : 12,
+      "unloadModels" : true
+    },
+    "llm" : {
+      "quitApps" : [
+        "com.google.Chrome",
+        "com.tinyspeck.slackmacgap",
+        "com.hnc.Discord",
+        "com.spotify.client",
+        "notion.id",
+        "com.microsoft.teams2"
+      ],
+      "stopDocker" : true,
+      "targetGB" : 24,
+      "unloadModels" : true
+    }
+  }
+}

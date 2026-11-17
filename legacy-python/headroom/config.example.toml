@@ -1,0 +1,19 @@
+# Headroom config. Location: ~/.config/headroom/config.toml
+#
+# Only apps listed in a profile's quit_apps are ever quit, gracefully.
+# Protected apps (Finder, Dock, Terminal, iTerm2, Ghostty, Warp, ...) are
+# refused here and can never be quit.
+
+default_profile = "llm"
+
+[profiles.llm]
+target_gb = 24            # available RAM wanted before the heavy task
+quit_apps = ["Google Chrome", "Slack", "Discord", "Spotify", "Notion", "Microsoft Teams"]
+unload_models = true      # unload models loaded in Ollama / LM Studio
+stop_docker = true        # stop Docker Desktop (and its VM)
+
+[profiles.build]
+target_gb = 12
+quit_apps = ["Slack", "Discord", "Spotify"]
+unload_models = true
+stop_docker = false

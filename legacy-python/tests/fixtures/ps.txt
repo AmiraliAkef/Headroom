@@ -1,0 +1,75 @@
+    1     0  24080 /sbin/launchd
+  342     1  41168 /usr/libexec/logd
+  344     1   2656 /usr/libexec/smd
+  345     1   6144 /usr/libexec/UserEventAgent
+  347     1   7520 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+  348     1   6784 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+  350     1   3312 /usr/libexec/uarpd
+  352     1   5616 /usr/sbin/systemstats
+  356     1   8400 /usr/libexec/configd
+  357     1    288 endpointsecurityd
+  358     1   6608 /System/Library/CoreServices/powerd.bundle/powerd
+  359     1    208 /usr/libexec/IOMFB_bics_daemon
+  361     1   5616 /usr/libexec/amfid
+  363     1   1568 /usr/libexec/remoted
+  365     1    352 /usr/libexec/keybagd
+  419     1  23152 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+  473     1    272 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+  569     1    528 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+  633     1   9280 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+  639     1  27136 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+  648     1  19120 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  649     1  56592 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+  651     1  33552 /System/Library/CoreServices/MenuBarAgent.app/Contents/MacOS/MenuBarAgent
+  652     1   4608 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+  654     1 138480 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  656     1  13360 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+  667     1   5312 /System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Resources/AccessibilityVisualsAgent.app/Contents/MacOS/AccessibilityVisualsAgent
+  672     1  34304 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  685     1 117232 /System/Applications/Siri AI.app/Contents/MacOS/Siri AI
+  692     1   2384 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+  702     1  31440 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  708     1   7616 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  725     1   6560 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri
+  735     1   3328 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent
+  737     1  10192 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  740     1  10976 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+  748     1  42064 /Applications/DynamicNotch.app/Contents/MacOS/DynamicNotch
+  749     1   4496 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+  750     1  19232 /Applications/DisplayLink Manager.app/Contents/MacOS/DisplayLinkUserAgent
+  752     1   4784 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+  770     1   5696 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+  778     1  15456 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+  783     1  84720 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetItems.appex/Contents/MacOS/FindMyWidgetItems
+  787     1  33440 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget
+  788     1    544 /System/Library/CoreServices/ControlCenter.app/Contents/PlugIns/DisplayControls.appex/Contents/MacOS/DisplayControls
+  790     1  11104 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+  795     1    576 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+  802     1   9248 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem
+  810     1   3456 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+  813     1   6016 /System/Applications/FindMy.app/Contents/PlugIns/FindMyWidgetPeople.appex/Contents/MacOS/FindMyWidgetPeople
+  843     1   5200 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+  858     1   4784 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+  871     1   5376 /System/Library/CoreServices/AccessibilityUIServer.app/Contents/MacOS/AccessibilityUIServer
+  881     1   5856 /System/Library/CoreServices/WidgetRenderer_Activities.app/Contents/MacOS/WidgetRenderer_Activities
+  900     1   5136 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+ 1013     1    400 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+ 1014     1    256 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension
+ 1015     1   4448 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension
+ 1027     1   2720 /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/Contents/MacOS/privatecloudcomputed
+ 1080     1   3136 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+ 1093     1   3616 /System/Library/PrivateFrameworks/SkyLight.framework//Versions/A/Resources/AquaAppearanceHelper.app/Contents/MacOS/AquaAppearanceHelper
+ 1316     1    608 /System/Applications/Messages.app/Contents/PlugIns/Messages Assistant Extension.appex/Contents/MacOS/Messages Assistant Extension
+ 1391     1   1856 /Library/Developer/PrivateFrameworks/CoreDevice.framework/Versions/A/PrivateApplications/CoreDeviceExtensions.app/Contents/Extensions/DeviceFS.appex/Contents/MacOS/DeviceFS
+ 1392     1   3552 /Library/Developer/PrivateFrameworks/CoreDevice.framework/Versions/A/PrivateApplications/CoreDeviceExtensions.app/Contents/Extensions/DeviceFS.appex/Contents/MacOS/DeviceFS
+ 2680     1  19520 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+ 2969     1   4784 /System/Applications/Home.app/Contents/PlugIns/HomeEnergyWidgetsExtension.appex/Contents/MacOS/HomeEnergyWidgetsExtension
+ 4362     1  14704 /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/Contents/MacOS/IMTransferAgent
+ 4770     1    352 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+ 4771     1    544 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+ 6402     1 118416 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+14465     1  58992 /System/Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+15058     1 464928 /Applications/Claude.app/Contents/MacOS/Claude
+15060     1   8864 /Applications/Claude.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler
+15061 15058 111200 /Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper
+15063 15058 134032 /Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper
